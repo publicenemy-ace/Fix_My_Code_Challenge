@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """ FizzBuzz
-    Change of logic if (i % 3) == 0 and (i % 5) == 0:
 """
 import sys
 
@@ -38,4 +37,3 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-
